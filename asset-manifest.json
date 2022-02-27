@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/static/css/main.63db3995.css",
+    "main.js": "/github.io/static/js/main.7abee928.js",
+    "static/js/787.2a38e5c6.chunk.js": "/github.io/static/js/787.2a38e5c6.chunk.js",
+    "static/media/mountain.jpg": "/github.io/static/media/mountain.ef3e6e1587c00da7e345.jpg",
+    "index.html": "/github.io/index.html",
+    "main.63db3995.css.map": "/github.io/static/css/main.63db3995.css.map",
+    "main.7abee928.js.map": "/github.io/static/js/main.7abee928.js.map",
+    "787.2a38e5c6.chunk.js.map": "/github.io/static/js/787.2a38e5c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63db3995.css",
+    "static/js/main.7abee928.js"
+  ]
+}
